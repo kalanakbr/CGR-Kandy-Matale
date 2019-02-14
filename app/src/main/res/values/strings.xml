@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Sri Lanka Railway </string>
+    <string name="sunny_button">Sunny</string>
+    <string name="cloud_button">Cloud</string>
+    <string name="light_rain_button">Light Rain</string>
+    <string name="shower_button">Shower</string>
+    <string name="storm_button">Storm</string>
+    <string name="delay_explained">Delay Explained</string>
+    <string name="current_weather">Current Weather</string>
+    <string-array name="reasons">
+        <item>Reason</item>
+        <item>Break Down</item>
+        <item>Accident</item>
+        <item>Land Slide</item>
+    </string-array>
+    <string-array name="station">
+        <item>Station</item>
+        <item>Kandy</item>
+        <item>Mahaiyawa</item>
+        <item>Katugasthota</item>
+        <item>Udathalawinna</item>
+        <item>Wattegama</item>
+        <item>Udaththalawa</item>
+        <item>Ukuwela</item>
+        <item>Matale</item>
+    </string-array>
+    <string name="submit">Submit</string>
+    <string name="getDirection">Get Direction</string>
+
+    <string name="trainNo">Train No :</string>
+    <string name="from">From :</string>
+    <string name="to">To :</string>
+    <string name="train">Train :</string>
+
+    <string-array name="stations">
+        <item>Station</item>
+        <item>Kandy</item>
+        <item>Matale</item>
+    </string-array>
+
+    <string-array name="trainType">
+        <item>Type</item>
+        <item>Normal</item>
+        <item>Express</item>
+        <item>Intercity</item>
+    </string-array>
+    <string name="go">Go</string>
+</resources>
